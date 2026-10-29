@@ -30,7 +30,7 @@ ping -c 1 TARGET
 ```
 ````
 
-![[Ping.PNG]]
+![alt text](Images/Enumeracion/Ping.PNG)
 
 TTL 64 = Linux, 128 = Windows.
 
@@ -41,8 +41,8 @@ nmap -p- --min-rate 5000 -n -oG ScanALL TARGET
 extractPorts ScanALL
 ```
 
-![[NmapScanAll.PNG]]
-![[ExtractPorts.PNG]]
+![alt text](Images/Enumeracion/NmapScanAll.PNG)
+![alt text](Images/Enumeracion/ExtractPorts.PNG)
 Rápido, sin DNS, guarda grepable. `extractPorts` copia la lista al clipboard.
 
 ## 3. Versiones + scripts default
@@ -51,7 +51,7 @@ Rápido, sin DNS, guarda grepable. `extractPorts` copia la lista al clipboard.
 nmap -p<PUERTOS> -sCV -oN ScanPorts TARGET
 ```
 
-![[NmapScanPorts.PNG]]
+![alt text](Images/Enumeracion/NmapScanPorts.PNG)
 `-sC` scripts + `-sV` versión. Acá salen CVEs.
 
 ## 4. Fingerprint web (por cada puerto HTTP)
