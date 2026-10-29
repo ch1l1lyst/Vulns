@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "b56a8ff458d4fbf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "34ab8f9970d2113b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b4bd083e043a25b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenido.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bienvenido"
+            }
+          },
+          {
+            "id": "4d90a778e6afbc30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tratamiento de la TTY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tratamiento de la TTY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3418a7bf5ad74ffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f207f05f1391883",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a0c32985dc524b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "8a15439a4a011621",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f750c7d6562cbfe3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "153b4377842d753b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcbdb32cd4870661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35c9c9359e9e809d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "eedc4100b96589b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "8c616c7859ec65ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5b9745267ccd6541",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "8b86841a8ff8ed63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "3a0c32985dc524b8",
+  "lastOpenFiles": [
+    "Tratamiento de la TTY.md",
+    "Machines/DeepLab/DeepLab.md",
+    "Machines/DeepLab/RootShell.png",
+    "Machines/DeepLab/ShellRay.png",
+    "Bienvenido.md",
+    "Machines/DeepLab/CurlSuccess.png",
+    "Machines/DeepLab/SuccessCurl.png",
+    "Machines/DeepLab/2Web80.png",
+    "Images/Enumeracion/RayVersion.PNG",
+    "Machines/DeepLab/FUZZ.png",
+    "Machines/DeepLab/1Web80.png",
+    "Machines/DeepLab/Sin título.md",
+    "Machines/Sin nombre 1",
+    "Machines/DeepLab",
+    "Machines",
+    "Images/Enumeracion/Ping.PNG",
+    "Images/Enumeracion/NmapScanPorts.PNG",
+    "Images/Enumeracion",
+    "Images"
+  ]
+}
